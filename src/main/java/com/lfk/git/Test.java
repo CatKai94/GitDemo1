@@ -20,5 +20,10 @@ public class Test {
         System.out.println("push");
         System.out.println("push");
         System.out.println("pull");
+         System.out.println(23);
+        System.out.println(23);
+        System.out.println("push");
+        System.out.println("push");
+        System.out.println("pull");
     }
 }
